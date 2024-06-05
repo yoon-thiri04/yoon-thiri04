@@ -3,7 +3,7 @@
 - 🌱 I'm passionate about learning languages, especially in the realm of J2EE development, and I'm excited to dive deeper into the world of technology, particularly in backend development.
 - 📫 How to reach me (more active on ig)
      Instagram: yoonthiri_ag
-     Facebook: Yoon Thiri Aung
+     <i>Facebook: Yoon Thiri Aung<i>
 - ⚡ Fun fact: Despite being very friendly, I'm not the best at communication.
    I might have a baby face and petite body structure, just a girl who lost in the wide IT field fr,haha.
 
