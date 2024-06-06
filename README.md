@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Yoon Thiri Aung!
 
 Welcome to my GitHub profile! I'm Yoon Thiri Aung, and I'm particularly interested in collaborating on projects that involve Java, especially J2EE MVC with JSP and Servlets.
+[Email me](mailto:yoonthiriaung04@gmail.com)
 
 ## 🌟 Current Activities
 
@@ -19,7 +20,7 @@ I'm more active on Instagram and Telegram. Feel free to connect with me!
 - **Instagram**: [yoonthiri_ag](https://www.instagram.com/yoonthiri_ag)
 - **Facebook**: [Yoon Thiri Aung](https://www.facebook.com/yoonthiriaung04?mibextid=ZbWKwL)
 - **Telegram**: [yoonthiri04](https://t.me/yoonthiri04)
-- **Gmail**: [Yoon Thiri Aung](yoonthiriaung04@gmail.com)
+- **Gmail**:[Email me](mailto:yoonthiriaung04@gmail.com)
 - **SoloLearn**: Yoon Thiri Aung
 - **Udacity**: Yoon Thiri Aung
 
