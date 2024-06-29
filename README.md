@@ -5,7 +5,7 @@ I'm particularly interested in collaborating on projects that involve Java, espe
 
 ## 🌟 Current Activities
 
-- **Studies Knowledge Engineering** at the University of Computer Studies, Yangon
+- **Studies Knowledge Engineering** at the **University of Computer Studies, Yangon**
 - **Studies at University of the People**
 - **Studies at DataCamp**
 
