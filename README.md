@@ -2,14 +2,14 @@
 ![gitPf](https://github.com/user-attachments/assets/e4ed8bb4-3540-429b-b389-9aaa2708d4d9)
 
 Hi! I'm Yoon Thiri Aung, a dedicated student and aspiring Machine Learning Engineer.
-## 🌟 Current Activities
+## 💮 Current Activities
 
 - **Knowledge Engineering Student** at the **University of Computer Studies, Yangon**
 - **Computer Science Student** at **University of the People**
 - **Data Science Learner** at **DataCamp**
 - **OCI Generative AI Professional Certification Student** at **Oracle University**
 
-## 📫 How to Reach Me
+## 💮 How to Reach Me
 
 I'm more active on Instagram and Telegram. Feel free to connect with me!
 
