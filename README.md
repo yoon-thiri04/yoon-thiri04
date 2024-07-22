@@ -8,6 +8,7 @@ I'm particularly interested in collaborating on projects that involve Java, espe
 - **Studies Knowledge Engineering** at the **University of Computer Studies, Yangon**
 - **Studies at University of the People**
 - **Studies at DataCamp**
+- **Studies at Oracle University**
 
 ## 📫 How to Reach Me
 
