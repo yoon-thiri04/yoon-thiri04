@@ -1,7 +1,7 @@
 
 ![gitPf](https://github.com/user-attachments/assets/e4ed8bb4-3540-429b-b389-9aaa2708d4d9)
 
-Hi! I'm Yoon Thiri Aung, a dedicated student and aspiring Machine Learning Engineer.
+🥑Hi! I'm Yoon Thiri Aung, a dedicated student and aspiring Machine Learning Engineer.
 ## 💮 Current Activities
 
 - 🧋**Knowledge Engineering Student** at the **University of Computer Studies, Yangon**
