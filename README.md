@@ -7,7 +7,7 @@
 - 🧋**Knowledge Engineering Student** at the **University of Computer Studies, Yangon**
 - 🧃**Computer Science Student** at **University of the People**
 - 🦩**Data Science Learner** at **DataCamp**
-- 🫧**OCI Generative AI Professional Certification Student** at **Oracle University**
+
 
 ## 💮 How to Reach Me
 
