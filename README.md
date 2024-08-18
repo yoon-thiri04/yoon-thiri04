@@ -14,7 +14,7 @@
 <div align="center">
   
   ## 💮 How to Reach Me
-</div
+
   
   I'm more active on Instagram and Telegram. Feel free to connect with me!
 
@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   
-<div align="center">
+
   
   [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/yoon-thiri04)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yoon-thiri-aung-497a6929a)
