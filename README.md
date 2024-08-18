@@ -6,7 +6,7 @@
   ## 💮 Current Activities
 </div>
 
--🧋**Knowledge Engineering Student** at the **University of Computer Studies, Yangon*
+-🧋**Knowledge Engineering Student** at the **University of Computer Studies, Yangon**
 -🧋**Knowledge Engineering Student** at the **University of Computer Studies, Yangon**
 -🧃**Computer Science Student** at **University of the People**
 -🦩**Data Science Learner** at **DataCamp**
