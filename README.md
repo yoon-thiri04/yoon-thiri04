@@ -6,12 +6,13 @@
   ## 💮 Current Activities
 </div>
 
--🧋**Knowledge Engineering Student** at the **University of Computer Studies, Yangon**
--🧋**Knowledge Engineering Student** at the **University of Computer Studies, Yangon**
--🧃**Computer Science Student** at **University of the People**
--🦩**Data Science Learner** at **DataCamp**
--🫧**Learning about LLMs from Active Loop**
+- 🧋**Knowledge Engineering Student** at **University of Computer Studies, Yangon**
+- 🧃**Computer Science Student** at **University of the People**
+- 🦩**Data Science Learner** at **DataCamp**
+- 🫧**Learning about LLMs from Active Loop**
    
+
+
 
 <div align="center">
   
