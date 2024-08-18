@@ -18,10 +18,22 @@
   
   I'm more active on Instagram and Telegram. Feel free to connect with me!
 
-  - 🌼**Instagram**: [yoonthiri_ag](https://www.instagram.com/yoonthiri_ag)
-  - 🍮**Facebook**: [Yoon Thiri Aung](https://www.facebook.com/yoonthiriaung04?mibextid=ZbWKwL)
-  - 💌**Telegram**: [yoonthiri04](https://t.me/yoonthiri04)
-  - 📫**Gmail**: [Email me](mailto:yoonthiriaung04@gmail.com)
+ <a href="https://www.instagram.com/yoonthiri_ag" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+
+  <a href="mailto:yoonthiriaung04@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+
+  <a href="https://www.facebook.com/yoonthiriaung04?mibextid=ZbWKwL" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+
+  <a href="https://t.me/yoonthiri04" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  
 <div align="center">
   
   [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/yoon-thiri04)
