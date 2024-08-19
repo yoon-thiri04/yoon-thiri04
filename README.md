@@ -11,9 +11,6 @@
 - 🦩**Data Science Learner** at **DataCamp**
 - 🫧**Learning about LLMs from Active Loop**
    
-
-
-
 <div align="center">
   
   ## 💮 How to Reach Me
