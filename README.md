@@ -9,7 +9,7 @@
 - 🧋**Knowledge Engineering Student** at **University of Computer Studies, Yangon**
 - 🧃**Computer Science Student** at **University of the People**
 - 🦩**Data Science Learner** at **DataCamp**
-- 🫧**Learning about LLMs from Active Loop**
+- 🫧**Learning Generative AI  from Udacity**
    
 <div align="center">
   
