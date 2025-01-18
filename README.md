@@ -31,8 +31,9 @@
   <a href="https://t.me/yoonthiri04" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/yoon-thiri04)]
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yoon-thiri-aung-497a6929a)]
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/yoon-thiri04)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yoon-thiri-aung-497a6929a)
 
   [![Yoon Thiri Aung's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon-thiri04&cache_seconds=2000&show_icons=true&theme=radical)](https://github.com/yoon-thiri04/github-readme-stats)]
   
@@ -40,3 +41,4 @@
   
   ![](https://komarev.com/ghpvc/?username=yoon-thiri04&color=yellow)
 </div>
+
