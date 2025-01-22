@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1171978d-64cf-4468-8568-49109465f6cc" alt="kawaii" width="190" height="180">
+  <img src="https://github.com/user-attachments/assets/22314a1b-c688-4299-a40f-0db3069a9213" alt="kawaii" width="200">
   
   🥑Hi! I'm Yoon Thiri Aung, a dedicated student and aspiring Machine Learning Engineer.
 
