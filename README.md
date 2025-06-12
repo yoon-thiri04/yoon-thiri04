@@ -1,7 +1,10 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/9f9362ce-61b5-4f64-994a-c4d0fd6dcc7f" alt="kawaii" width="200">
   
-  🥑Hi! I'm Yoon Thiri Aung.
+  🥑Hi there ! I'm Yoon Thiri Aung.<br> 
+  I'm deeply interested in **Data Science**, **Backend Development**, and **AI**.  
+
+
 
   ## 💮 Current Activities
 </div>
@@ -9,6 +12,7 @@
 - 🧋**Knowledge Engineering Student** at **University of Computer Studies, Yangon**
 - 🧃**Computer Science Student** at **University of the People**
 - 🦩**Data Science Learner** at **DataCamp**
+- 🌐 Learning Data Science with **National Cyber City**
 
    
 <div align="center">
@@ -35,9 +39,5 @@
   [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/yoon-thiri04)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yoon-thiri-aung-497a6929a)
 
-  [![Yoon Thiri Aung's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon-thiri04&cache_seconds=2000&show_icons=true&theme=radical)](https://github.com/yoon-thiri04/github-readme-stats)]
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yoon-thiri04&layout=compact&theme=radical)
-  
-  ![](https://komarev.com/ghpvc/?username=yoon-thiri04&color=yellow)
+
 </div>
