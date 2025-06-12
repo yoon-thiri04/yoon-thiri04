@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/9f9362ce-61b5-4f64-994a-c4d0fd6dcc7f" alt="kawaii" width="200">
   
   🥑Hi there ! I'm Yoon Thiri Aung.<br> 
-  I'm deeply interested in **Data Science**, **Backend Development**, and **AI**.  
+  I’m passionate about Data Science, Backend Development, and AI.
 
 
 
