@@ -5,23 +5,13 @@
   I’m passionate about Data Science, Backend Development, and AI.
 
 
-
-  ## 💮 Current Activities
-
-
-🧋**Knowledge Engineering Student** at **University of Computer Studies, Yangon**
-
-🧃**Computer Science Student** at **University of the People**
-
-🌐 Learning **Data Science** with **National Cyber City**
-
 </div>
    
 <div align="center">
   
   ## 💮 How to Reach Me
   
-  I'm more active on Instagram and Telegram. Feel free to connect with me!
+  Feel free to connect with me!
 
  <a href="https://www.instagram.com/yoonthiri_ag" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
