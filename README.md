@@ -7,12 +7,15 @@
 
 
   ## 💮 Current Activities
+
+
+🧋**Knowledge Engineering Student** at **University of Computer Studies, Yangon**
+
+🧃**Computer Science Student** at **University of the People**
+
+🌐 Learning **Data Science** with **National Cyber City**
+
 </div>
-
-- 🧋**Knowledge Engineering Student** at **University of Computer Studies, Yangon**
-- 🧃**Computer Science Student** at **University of the People**
-- 🌐 Learning **Data Science** with **National Cyber City**
-
    
 <div align="center">
   
