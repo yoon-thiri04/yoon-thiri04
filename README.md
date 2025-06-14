@@ -43,25 +43,26 @@
   ## 💮 How to Reach Me
   
   Feel free to connect with me!
+  
+<a href="https://www.instagram.com/yoonthiri_ag" target="_blank" style="margin-right:6px;">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 
- <a href="https://www.instagram.com/yoonthiri_ag" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
+<a href="mailto:yoonthiriaung04@gmail.com" style="margin-right:6px;">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 
-  <a href="mailto:yoonthiriaung04@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+<a href="https://www.facebook.com/yoonthiriaung04?mibextid=ZbWKwL" target="_blank" style="margin-right:6px;">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
 
-  <a href="https://www.facebook.com/yoonthiriaung04?mibextid=ZbWKwL" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="https://t.me/yoonthiri04" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
+<a href="https://t.me/yoonthiri04" target="_blank" style="margin-right:6px;">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
 
-  [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/yoon-thiri04)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yoon-thiri-aung-497a6929a)
+<a href="https://www.linkedin.com/in/yoon-thiri-aung-497a6929a" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+</a>
+
   </div>
 
-
-</div>
