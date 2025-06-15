@@ -8,7 +8,7 @@
 </div>
 
 
-<div >
+<div align="center" >
 
 ## 💼 My Tech Toolbox
 
@@ -42,7 +42,7 @@
 </div>
 
 
-<div >
+<div align="center" >
   
 <br>
   Feel free to connect with me!
