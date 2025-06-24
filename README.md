@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
-<a href="https://www.facebook.com/yoonthiriaung04?mibextid=ZbWKwL" target="_blank" style="margin-right:6px;">
+<a href="https://www.facebook.com/yoonthiriaung04" target="_blank" style="margin-right:6px;">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
 <a href="https://t.me/yoonthiri04" target="_blank" style="margin-right:6px;">
