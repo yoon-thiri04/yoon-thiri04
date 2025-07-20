@@ -66,7 +66,8 @@
 <a href="https://www.linkedin.com/in/yoon-thiri-aung-497a6929a" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
 </a>
+  <br>
   
-🫧🐚[![committers.top badge](https://user-badge.committers.top/myanmar/yoon-thiri04.svg)](https://user-badge.committers.top/myanmar/yoon-thiri04)
+🫧🐚 [![committers.top badge](https://user-badge.committers.top/myanmar/yoon-thiri04.svg)](https://user-badge.committers.top/myanmar/yoon-thiri04)
 
   </div>
