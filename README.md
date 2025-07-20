@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/9f9362ce-61b5-4f64-994a-c4d0fd6dcc7f" alt="kawaii" width="200">
   
-  🥑Hi there ! I'm Yoon Thiri Aung.<br> 
-  I’m enthusiastic about Data Science, Backend Development, and AI.✨
+  🥑Hi there ! I'm **Yoon Thiri Aung**.🧸🎀🫧<br> 
+  I’m enthusiastic about Data Science, Backend Development, and AI.🤖✨
 
 
 </div>
@@ -10,7 +10,7 @@
 
 <div align="center" >
 
-## 💼 My Tech Toolbox
+## 🌷 My Tech Toolbox
 
 
 <!-- Tech badge rows -->
