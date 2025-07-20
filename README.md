@@ -67,6 +67,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
 </a>
   
-[![committers.top badge](https://user-badge.committers.top/myanmar/yoon-thiri04.svg)](https://user-badge.committers.top/myanmar/yoon-thiri04)
+🫧🐚[![committers.top badge](https://user-badge.committers.top/myanmar/yoon-thiri04.svg)](https://user-badge.committers.top/myanmar/yoon-thiri04)
 
   </div>
