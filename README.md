@@ -45,7 +45,7 @@
 
 <div align="center" >
   
-### 🎨📩 Feel free to connect with me!
+### 🎨📩 Feel free to connect with me!🫧🐚🌷
 
   
 <a href="https://www.instagram.com/yoonthiri_ag" target="_blank" style="margin-right:6px;">
@@ -68,6 +68,6 @@
 </a>
   <br>
   
-🐚 [![committers.top badge](https://user-badge.committers.top/myanmar/yoon-thiri04.svg)](https://user-badge.committers.top/myanmar/yoon-thiri04)
+ [![committers.top badge](https://user-badge.committers.top/myanmar/yoon-thiri04.svg)](https://user-badge.committers.top/myanmar/yoon-thiri04)
 
   </div>
