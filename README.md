@@ -7,7 +7,6 @@
 
 </div>
 
-
 <div align="center" >
 
 ## 🧋 My Tech Toolbox
