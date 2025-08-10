@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/9f9362ce-61b5-4f64-994a-c4d0fd6dcc7f" alt="kawaii" width="200">
+  <img src="![kitty](https://github.com/user-attachments/assets/0f5adbb6-c6ef-41ee-acfe-c3f55d3001c7)" alt="kawaii" width="200">
   
   🥑Hi there ! I'm **Yoon Thiri Aung**.🧸🎀🫧<br> 
-  I’m enthusiastic about Data Science, Backend Development, and AI.🤖✨
-
+  Enthusiastic about Data Science, and AI🤖✨.<br>
+  I have a big big crush on **Trumanblack** from 1975.🤭🫶🏻
 
 </div>
 
