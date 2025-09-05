@@ -3,8 +3,6 @@
   
   🥑Hi there ! I'm **Yoon Thiri Aung**.🧸🎀🫧<br> 
   Enthusiastic about Data Science, and AI🤖✨.<br>
-
-
 </div>
 
 <div align="center" >
