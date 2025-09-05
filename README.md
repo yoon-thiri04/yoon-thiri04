@@ -3,7 +3,7 @@
   
   🥑Hi there ! I'm **Yoon Thiri Aung**.🧸🎀🫧<br> 
   Enthusiastic about Data Science, and AI🤖✨.<br>
-  I have a big big crush on **Trumanblack** from 1975.🤭🫶🏻
+
 
 </div>
 
