@@ -65,6 +65,11 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
 </a>
   <br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=yoon-thiri04&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="yoon-thiri04's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoon-thiri04&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="yoon-thiri04's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=yoon-thiri04&theme=dracula&hide_border=true" alt="yoon-thiri04's GitHub Stats" />
+  
   
  [![committers.top badge](https://user-badge.committers.top/myanmar/yoon-thiri04.svg)](https://user-badge.committers.top/myanmar/yoon-thiri04)
  <br>
