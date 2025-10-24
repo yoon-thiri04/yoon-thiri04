@@ -26,7 +26,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy" width="40"/>
 
 <img src="https://raw.githubusercontent.com/wiki/opencv/opencv/logo/OpenCV_logo_black.svg?sanitize=true" alt="OpenCV" width="40"/>
-<img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.svg" alt="Hugging Face Transformers" width="120"/>
+<img src="https://github.com/user-attachments/assets/202c4155-ab9b-4106-973b-2a87ae018a49" alt="Hugging Face Transformers" width="40"/>
 
 
 
