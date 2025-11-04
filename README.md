@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/ca63894a-bc96-492a-984c-0758546cc500" alt="kawaii" width="200">
   
   🥑Hi there ! I'm **Yoon Thiri Aung**.🧸🎀🫧<br> 
-  Enthusiastic about Data Science, and AI🤖✨.<br>
+  I'm enthusiastic about Data Science, and AI🤖✨.<br>
 </div>
 <div align="center" >
 
