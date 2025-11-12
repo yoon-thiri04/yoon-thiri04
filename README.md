@@ -17,7 +17,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40"/>
 <img src="https://github.com/user-attachments/assets/bf33b517-5651-4418-b540-d3f72e81ec79" alt="LangChain" width="60"/>
 
-
 <!-- Data Science & AI -->
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40"/>
