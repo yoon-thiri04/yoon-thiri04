@@ -64,7 +64,6 @@
 <a href="https://t.me/yoonthiri04" target="_blank" style="margin-right:6px;">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
-
 <a href="https://www.linkedin.com/in/yoon-thiri-aung-497a6929a" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
 </a>
