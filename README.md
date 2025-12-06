@@ -40,7 +40,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
 
 </div>
-
 <div align="center" >
   
 ### 🎨📩 Feel free to connect with me!🫧🐚
