@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ca63894a-bc96-492a-984c-0758546cc500" alt="kawaii" width="200">
   
-  🥑Hi there ! I'm **Yoon Thiri Aung**.🧸🎀🫧<br> 
-  I'm enthusiastic about Data Science, and AI🤖✨.<br>
+  🥑Hi ! I'm **Yoon Thiri Aung**.🧸🎀🫧<br> 
+  Just a tech lover trying to build myself stronger✨.<br>
 </div>
 <div align="center" >
 
@@ -54,7 +54,7 @@
 <a href="https://www.facebook.com/yoonthiriaung04" target="_blank" style="margin-right:6px;">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
-<a href="https://t.me/yoonthiri04" target="_blank" style="margin-right:6px;">
+<a href="https://t.me/yunnthiri00" target="_blank" style="margin-right:6px;">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
 <a href="https://www.linkedin.com/in/yoon-thiri-aung-497a6929a" target="_blank">
