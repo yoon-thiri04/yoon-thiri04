@@ -41,7 +41,6 @@
 
 </div>
 <div align="center" >
-  
 ### 🎨📩 Feel free to connect with me!🫧🐚
 <a href="https://www.instagram.com/yoonthiri_ag" target="_blank" style="margin-right:6px;">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
