@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/1909595f-b369-4ec1-80e2-593dd2cefb65" alt="cute" width="200"/>
 </p>
 
-<h2 align="center">Hi 🌸 I'm Yoon Thiri Aung ☄️🫧</h2>
+<h2 align="center">Hi!🌸 I'm Yoon Thiri Aung ☄️🫧</h2>
 
 <p align="center">
 I’m currently a 4th-year Knowledge Engineering student at UCSY. I’m learning and working on some Math, AI — especially CV and NLP.
