@@ -5,7 +5,7 @@
 <h2 align="center">Hi!🌸 I'm Yoon Thiri Aung ☄️🫧</h2>
 
 <p align="center">
-I’m currently a 4th-year Knowledge Engineering student at UCSY. I’m learning and working on some Math, AI — especially CV and NLP.
+I’m currently a 4th-year Knowledge Engineering student at UCSY. I’m learning and working on some Maths and AI — especially CV and NLP.
 </p>
 
 <h3 align="center">My Tech Stack 🛠</h3>
