@@ -16,21 +16,14 @@ I’m currently a 4th-year Knowledge Engineering student at UCSY. I’m learning
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" width ="40"/>
  <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" width ="50" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png" width="50"/>
-  
-![Uploading PyTorch_logo_black.svg…]()
+  <img width="50" height="50" alt="PyTorch" src="https://github.com/user-attachments/assets/d7555ea0-f5ae-4d4d-88ef-dd06815a14e2" />
+<img width="50" height="50" alt="Jupyter" src="https://github.com/user-attachments/assets/2198b68f-4767-4742-bc0c-62b58a978481" />
+<img width="90" height="90" alt="6308b83261b3e2a522f01467" src="https://github.com/user-attachments/assets/b15e98f6-224a-4049-89a7-772dc1c36e8b" />
+<img width="60" height="60" alt="scikit-learn" src="https://github.com/user-attachments/assets/72e531c1-293a-445a-930b-8c7b051eab90" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" width ="40"/>
+<img width="60" height="60" alt="opencv" src="https://github.com/user-attachments/assets/a2338b08-f87d-4229-b4fc-14a6570e2703" />
+  <p>
+<img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="50"/>
+<img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" width="50" />
 
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/streamlit.png" width ="50"/>
-  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Hugging%20Face-FF9900?style=for-the-badge&logo=huggingface&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<p>
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
