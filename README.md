@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4f62b960-8917-466d-8307-5c1764563c9d" alt="cute" width="400"/>
+  <img src ="https://github.com/user-attachments/assets/b09371f6-420f-49a6-849e-e5a9f273456d" width="400"/>
+
 </p>
 
 <h2>Hi!🌸 I'm Yoon Thiri Aung ☄️🫧</h2>
