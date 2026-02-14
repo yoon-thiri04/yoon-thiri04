@@ -25,7 +25,7 @@ I’m currently a 4th-year Knowledge Engineering student at UCSY. I’m learning
 <img width="50" height="50" alt="Jupyter" src="https://github.com/user-attachments/assets/2198b68f-4767-4742-bc0c-62b58a978481" />
 <img width="60" height="60" alt="scikit-learn" src="https://github.com/user-attachments/assets/72e531c1-293a-445a-930b-8c7b051eab90" />
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" width ="40"/>
-
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png" width="50"/>
   <p>
 <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="50"/>
 <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" width="50" />
