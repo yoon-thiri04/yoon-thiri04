@@ -3,7 +3,7 @@
 
 </p>
 
-<h2>Hi!🌸 I'm Yoon Thiri Aung ☄️🫧</h2>
+<h2>Hi!🫧 I'm Yoon Thiri Aung ☄️</h2>
 
 <p>
 I’m currently a 4th-year Knowledge Engineering student at UCSY. I’m learning and working on Maths and AI — especially CV and NLP.
