@@ -8,7 +8,6 @@
 I’m currently a 4th-year Knowledge Engineering student at UCSY. I’m learning and working on Maths and AI — especially CV and NLP.
 </p>
 <h3>My Tech Stack 🛠</h3>
-
 <p>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="40"/>
  <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="50"/>
