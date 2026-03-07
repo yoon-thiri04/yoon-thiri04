@@ -24,4 +24,4 @@ I’m currently a 4th-year Knowledge Engineering student at UCSY. I’m learning
 <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" width="50" />
 <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" width ="50" />
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" width="50" />
-</p>
+  </p>
