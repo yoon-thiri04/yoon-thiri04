@@ -1,29 +1,66 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/794c7831-59a7-494a-b6a9-88e16b74fd14" width="450" />
+</p>
+
+## 🫧 Hi there, I'm Yoon Thiri Aung! ☄️
+
+I am a motivated and technically driven **fourth-year Computer Science student** at the **University of Computer Studies, Yangon (UCSY)**, specializing in **Knowledge Engineering**. I am deeply passionate about building impactful solutions through **Backend Development**, **Machine Learning**, and **AI**.
+
+---
+
+### 🛠 Tech Stack
+
+**Languages & Core**
+<p>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+**AI, Machine Learning & Data Science**
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=Chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+**Backend, Databases & Tools**
+<p>
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+
+### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/794c7831-59a7-494a-b6a9-88e16b74fd14" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yoon-thiri04&show_icons=true&theme=radical" alt="Yoon Thiri Aung's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoon-thiri04&theme=radical" alt="GitHub Streak" />
 </p>
-<h2>Hi!🫧 I'm Yoon Thiri Aung ☄️</h2>
 
-<h3>My Tech Stack 🛠</h3>
-<p>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="40"/>
- <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="50"/>
-  <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" width ="40"/>
- <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" width ="50" />
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png" width="50"/>
+---
+
+### 📫 Connect with me
+
+
+* **Email:** [yoonthiriaung04@gmail.com](mailto:yoonthiriaung04@gmail.com) 
+* **Location:** Yangon, Myanmar 
+
+---
+<p align="center">
+  <i>"Focusing on building intelligent systems that solve real-world problems."</i>
 </p>
-<p>
-<img width="50" height="50" alt="PyTorch" src="https://github.com/user-attachments/assets/d7555ea0-f5ae-4d4d-88ef-dd06815a14e2"/>
-<img width="90" height="90" alt="6308b83261b3e2a522f01467" src="https://github.com/user-attachments/assets/b15e98f6-224a-4049-89a7-772dc1c36e8b"/>
-  <img width="50" height="50" alt="opencv-logo" src="https://github.com/user-attachments/assets/52347a47-723e-493d-9c06-cb52386dea77"/>
-<img width="50" height="50" alt="Jupyter" src="https://github.com/user-attachments/assets/2198b68f-4767-4742-bc0c-62b58a978481"/>
-<img width="60" height="60" alt="scikit-learn" src="https://github.com/user-attachments/assets/72e531c1-293a-445a-930b-8c7b051eab90"/>
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" width ="40"/>
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png" width="50"/>
-</p>
-  <p>
-<img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="50"/>
-<img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" width="50" />
-<img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" width ="50" />
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" width="50" />
-  </p
