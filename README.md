@@ -61,3 +61,6 @@ I am a motivated and technically driven **fourth-year Computer Science student**
 * **Location:** Yangon, Myanmar 
 
 ---
+<p align="center">
+  I love Naruto, strawberries, and music of all kinds—it’s what makes me feel alive. 🍥🍓🎧 <br>
+</p>
