@@ -61,6 +61,3 @@ I am a motivated and technically driven **fourth-year Computer Science student**
 * **Location:** Yangon, Myanmar 
 
 ---
-<p align="center">
-  <i>"Focusing on building intelligent systems that solve real-world problems."</i>
-</p>
