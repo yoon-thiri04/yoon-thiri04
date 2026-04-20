@@ -62,5 +62,5 @@ I am a motivated and technically driven **fourth-year Computer Science student**
 
 ---
 <p align="center">
-  I love Naruto, strawberries, and music of all kinds—it’s what makes me feel alive. 🍥🍓🎧 <br>
+  I love Gaara, strawberries, and music of all kinds—it’s what makes me feel alive. 🍥🍓🎧 <br>
 </p>
