@@ -42,7 +42,6 @@ I am a motivated and technically driven **fourth-year Computer Science student**
 </p>
 
 ---
-
 ### 📊 GitHub Stats
 
 <p align="center">
