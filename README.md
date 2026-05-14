@@ -4,7 +4,7 @@
 
 ## 🫧 Hi there, I'm Yoon Thiri Aung! ☄️
 
-I am a motivated and technically driven **fourth-year Computer Science student** at the **University of Computer Studies, Yangon (UCSY)**, specializing in **Knowledge Engineering**.
+I am a  **fourth-year Computer Science student** at the **University of Computer Studies, Yangon (UCSY)**, specializing in **Knowledge Engineering**.
 
 ---
 
