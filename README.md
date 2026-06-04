@@ -48,7 +48,7 @@ I am a  **Final-year Computer Science student** at the **University of Computer 
   <img src="https://github-readme-stats.vercel.app/api?username=yoon-thiri04&show_icons=true&theme=radical" alt="Yoon Thiri Aung's GitHub stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoon-thiri04&theme=radical" alt="GitHub Streak" />
-</p>
+</p
 
 ---
 
