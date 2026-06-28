@@ -1,50 +1,29 @@
+# Yoon Thiri Aung
 
-
-## 🫧 Hi there, I'm Yoon Thiri Aung! ☄️
-
-Currently a  **Final-year Computer Science student** at the **University of Computer Studies, Yangon (UCSY)** with a specific focus in **Knowledge Engineering**.
-
----
-
-### 🛠 Tech Stack
-
-**Languages & Core**
-<p>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-**AI, Machine Learning & Data Science**
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=Chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
-
-**Backend, Databases & Tools**
-<p>
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
+**Final-Year Computer Science Student** at the **University of Computer Studies, Yangon (UCSY)**  
+*Specializing in Knowledge Engineering*
 
 ---
 
-### 📫 Connect with me
+###  About Me
 
-* **Email:** [yoonthiriaung04@gmail.com](mailto:yoonthiriaung04@gmail.com) 
-* **Location:** Yangon, Myanmar 
+I am a passionate Computer Science student dedicated to building robust backends and intelligent systems. My academic focus in Knowledge Engineering fuels my interest in machine learning pipelines, natural language processing, and scalable backend architectures. I enjoy solving complex problems where data meets clean, efficient code.
+
+---
+
+### 🛠 Technical Expertise
+
+*   **Languages:** `Python` • `Java` • `C++` • `JavaScript` • `HTML5` • `CSS3`
+*   **AI & Data Science:** `PyTorch` • `Scikit-Learn` • `OpenCV` • `FastAPI` • `LangChain` • `NumPy`
+*   **Backend & Databases:** `Django` • `MySQL` • `MongoDB` • `Redis` • `SQLite`
+*   **Tools & Hardware:** `Git` • `GitHub` • `Arduino`
+
+---
+
+###  Let's Connect
+
+*   📧 **:** [yoonthiriaung04@gmail.com](mailto:yoonthiriaung04@gmail.com)
+*   📍 **:** Yangon, Myanmar
+
 
 ---
