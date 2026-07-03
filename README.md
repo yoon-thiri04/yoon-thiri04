@@ -7,7 +7,7 @@
 
 ###  About Me
 
-I am a passionate Computer Science student dedicated to building robust backends and intelligent systems. My academic focus in Knowledge Engineering fuels my interest in machine learning pipelines, natural language processing, and scalable backend architectures. I enjoy solving complex problems where data meets clean, efficient code.
+A resourceful and passionate Computer Science student dedicated to building robust backends and intelligent systems. My academic focus in Knowledge Engineering fuels my interest in machine learning pipelines, natural language processing, and scalable backend architectures. I enjoy solving complex problems where data meets clean, efficient code.
 
 ---
 
